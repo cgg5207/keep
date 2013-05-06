@@ -1,0 +1,5 @@
+.rvmrc
+Gemfile.lock
+.DS_Store
+public/assets/*
+.sass-cache/

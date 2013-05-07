@@ -10,3 +10,5 @@ gem 'thin'
 
 gem 'coffee-script'
 gem 'haml'
+gem 'json', '~> 1.7.7'
+
